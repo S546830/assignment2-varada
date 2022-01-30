@@ -11,3 +11,7 @@ Turn left toward Airport Terminal Link
 Continue straight onto Kalaignar aKarunanidhi Salai
 Use the right 2 lanes to turn right onto East Coast Rd
 Tondle the family restaurants
+### Specific Food Items
+Royal prawns kabab
+Malai kofta
+Steamed Crab
