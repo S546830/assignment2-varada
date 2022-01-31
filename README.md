@@ -30,4 +30,12 @@ Tondle the family restaurants
 |--------|--------------|------------|
 | Squash | omr road     | $30        |
 | Tennis | ecr road     | $20        |
-| Hockey | mgr road     | $35        | 
+| Hockey | mgr road     | $35        |
+
+--------------------------------------------------------------------------------------------------------
+
+# Quotations
+
+>A little note of daily plans can make you so much better.*Kaushal Yadav*
+
+>Confidence is classy,Always wear it.*Ricky Meher*
