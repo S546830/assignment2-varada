@@ -36,6 +36,6 @@ Tondle the family restaurants
 
 # Quotations
 
->A little note of daily plans can make you so much better.*Kaushal Yadav*
+>A little note of daily plans can make you so much better. *Kaushal Yadav*
 
->Confidence is classy,Always wear it.*Ricky Meher*
+>Confidence is classy,Always wear it. *Ricky Meher*
