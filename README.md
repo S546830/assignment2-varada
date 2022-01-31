@@ -46,7 +46,7 @@ Tondle the family restaurants
 
 >Basic geometry is the study of points, lines, angles, surfaces, and solids.The study of this topic starts with an understanding of these. Let's define them.
 
-[Elaboration](https://www.basic-mathematics.com/basic-geometry.html)
+Elaboration (https://www.basic-mathematics.com/basic-geometry.html)
 
         struct point2d {
         ftype x, y;
@@ -89,4 +89,4 @@ Tondle the family restaurants
         return b * a;
     }
 
-[Extended Information](https://cp-algorithms.com/geometry/basic-geometry.html)s
+Extended Information (https://cp-algorithms.com/geometry/basic-geometry.html)s
