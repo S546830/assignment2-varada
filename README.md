@@ -89,4 +89,4 @@ Elaboration (https://www.basic-mathematics.com/basic-geometry.html)
         return b * a;
     }
 
-Extended Information (https://cp-algorithms.com/geometry/basic-geometry.html)s
+Extended Information (https://cp-algorithms.com/geometry/basic-geometry.htmls)
