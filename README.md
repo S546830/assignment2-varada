@@ -21,3 +21,13 @@ Tondle the family restaurants
 3. Steamed Crab
 
 [Get To Know Meee](https://github.com/S546830/assignment2-varada/blob/main/AboutMe.md)
+
+--------------------------------------------------------------------------------------------------------
+
+# Sports  
+
+| Name   |   Location   |   Amount   |
+|--------|--------------|------------|
+| Squash | omr road     | $30        |
+| Tennis | ecr road     | $20        |
+| Hockey | mgr road     | $35        | 
