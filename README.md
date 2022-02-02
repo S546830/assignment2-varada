@@ -8,18 +8,18 @@ There is a **beach** side to this restaurant full of lights and decorations.Ther
 
 # Chennai International Airport
 ### Chennai International Airport is the closest airport to this food location
-Chennai International Airport
-Head northeast on Service Rd toward Airport Terminal Link
-Turn left toward Airport Terminal Link
-Continue straight onto Kalaignar aKarunanidhi Salai
-Use the right 2 lanes to turn right onto East Coast Rd
-Tondle the family restaurants
+1. Chennai International Airport
+2. Head northeast on Service Rd toward Airport Terminal Link
+3. Turn left toward Airport Terminal Link
+4. Continue straight onto Kalaignar aKarunanidhi Salai
+5. Use the right 2 lanes to turn right onto East Coast Rd
+6. Tondle the family restaurants
 
 ### Specific Food Items
 
-1. Royal prawns kabab
-2. Malai kofta
-3. Steamed Crab
+* Royal prawns kabab
+* Malai kofta
+* Steamed Crab
 
 [Get To Know Meee](https://github.com/S546830/assignment2-varada/blob/main/AboutMe.md)
 
